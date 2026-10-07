@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 218" width="1200" height="218" role="img" aria-labelledby="title desc">
+<title id="title">Make discovery feel obvious.</title><desc id="desc">Two kinds of input converge into a learned relevance signal and a ranked result. Decorative specialization illustration.</desc>
+<defs><pattern id="grain" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#20242a" opacity=".07"/></pattern></defs>
+<rect width="1200" height="218" rx="8" fill="#f1efe8"/><rect width="1200" height="218" rx="8" fill="url(#grain)"/>
+<g font-family="Helvetica Neue,Helvetica,Arial,sans-serif"><text x="34" y="34" font-size="14" letter-spacing="2" fill="#5b6269">01 / RETRIEVAL / RANKING / PERSONALIZATION</text>
+    <text x="32" y="107" font-size="58" font-weight="700" letter-spacing="-2" fill="#1b1f25">Make discovery</text>
+    <text x="32" y="171" font-size="58" font-weight="700" letter-spacing="-2" fill="#1b1f25">feel obvious.</text><path d="M679 43v135" stroke="#1b1f25" stroke-opacity=".14"/><g fill="none" stroke="#858c91" stroke-width="1.3">
+<path d="M739 61C802 62 787 97 867 99M739 153C802 154 790 115 867 113"/>
+<path d="M899 103C961 102 956 60 1033 60M899 103C961 102 956 99 1033 99M899 103C962 103 956 138 1033 138"/>
+</g><circle cx="745" cy="61" r="21" fill="#b8c0f6"/><circle cx="745" cy="153" r="21" fill="#d7f785"/>
+<circle cx="881" cy="107" r="35" fill="#1b1f25"/><path d="m867 107 11 11 17-25" fill="none" stroke="#d7f785" stroke-width="3.3"/>
+<g stroke="#1b1f25" stroke-width="2" fill="#f1efe8"><circle cx="1049" cy="60" r="14"/><circle cx="1049" cy="99" r="14"/><circle cx="1049" cy="138" r="14"/></g>
+<path d="M746 61C798 61 796 108 846 107M916 107C966 107 969 60 1034 60" fill="none" stroke="#596cdf" stroke-width="3.2"/>
+<circle cx="1049" cy="60" r="8" fill="#596cdf"/>
+<g font-size="13" font-family="SFMono-Regular,Consolas,monospace" fill="#555f69"><text x="720" y="198">intent</text><text x="852" y="198">signal</text><text x="1021" y="198">result</text></g></g></svg>
